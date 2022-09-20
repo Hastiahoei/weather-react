@@ -32,12 +32,6 @@ const Container = styled.div`
   box-shadow: 0 3px 6px 0 #555;
   background: white;
   font-family: Montserrat;
-  padding: 20px 10px;
-  margin: auto;
-  border-radius: 4px;
-  box-shadow: 0 3px 6px 0 #555;
-  background: white;
-  font-family: Montserrat;
 `;
 
 const AppLabel = styled.span`
